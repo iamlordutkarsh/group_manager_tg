@@ -24,7 +24,7 @@ Hello {}, my name is {}!
 I am is a modular python based Telegram group manager bot!
 My creator maded me to help you manage your group!
 
-Meet My Creator [Utkarsh](http://t.me/iamlordutkarsh) or @iamlordutkarsh
+Meet My Creator  @iamlordutkarsh
 
 You can find the list of available commands with /help.
 
