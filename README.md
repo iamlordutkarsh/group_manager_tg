@@ -8,6 +8,8 @@ Note to maintainers that all schema changes will be found in the commit messages
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+## Bot Updates
+ Join Our official channel to get updates of this bot & many other stuff [JOIN](https://t.me/utkarshsproject)
 
 ## Starting the bot.
 
